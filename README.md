@@ -8,6 +8,7 @@ An iOS application developed with Swift and SwiftUI, designed to facilitate effi
 - **Manage Flashcards**: View, edit, and delete existing flashcards to keep your study materials up to date.
 - **Swipe Gestures**: Navigate through flashcards using intuitive swipe gestures for a seamless learning experience.
 - **Progress Tracking**: Real-time tracking of correct and incorrect answers to monitor your learning progress.
+- **Reset Option**: Start fresh anytime with the reset button.
 - **Persistent Storage**: Utilizes `UserDefaults` to save flashcard data, ensuring your information is retained between sessions.
 - **Dark Mode Support**: Automatically adapts to the user's system settings for a visually comfortable experience in both light and dark modes.
 - **Landscape Mode**: Full support for landscape orientation to enhance usability on devices such as iPads.
@@ -45,7 +46,7 @@ An iOS application developed with Swift and SwiftUI, designed to facilitate effi
 	cd FlashCardApp
 3. Open in Xcode:
 	```bash
-	open FlashCardApp.git.xcodeproj
+	open FlashCardApp.xcodeproj
 4. Build and Run:
 - Select a simulator or connect a physical device.
 - Click the 'Run' button in Xcode to build and launch the app.
