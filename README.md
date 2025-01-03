@@ -1,9 +1,10 @@
 # FlashCardApp
-
 An iOS application developed with Swift and SwiftUI, designed to facilitate efficient learning through customizable flashcards.
 
-## Features
+## Screen Recording
+https://github.com/user-attachments/assets/41512f90-8e0b-4f5f-995c-8af6450063e7
 
+## Features
 - **Create Flashcards**: Add new flashcards with a custom input format, allowing for bulk creation.
 - **Manage Flashcards**: View, edit, and delete existing flashcards to keep your study materials up to date.
 - **Swipe Gestures**: Navigate through flashcards using intuitive swipe gestures for a seamless learning experience.
@@ -15,14 +16,12 @@ An iOS application developed with Swift and SwiftUI, designed to facilitate effi
 - **Clean UI**: Features a user-friendly interface with intuitive navigation for ease of use.
 
 ## Technologies Used
-
 - **Language**: Swift
 - **Framework**: SwiftUI
 - **Data Storage**: UserDefaults
 - **Architecture**: MVVM (Model-View-ViewModel)
 
 ## Project Structure
-
 - **Models**: Defines the data structures for flashcards.
 - **ViewModels**: Manages the business logic and data manipulation.
 - **Views**: Contains SwiftUI views for the user interface.
@@ -31,13 +30,11 @@ An iOS application developed with Swift and SwiftUI, designed to facilitate effi
 ## Getting Started
 
 ### Prerequisites
-
 - **Xcode**: Version 12.0 or higher
 - **iOS**: Deployment target of iOS 14.0 or higher
 - **macOS**: Version 10.15 or higher
 
 ### Steps
-
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/emirokay/FlashCardApp.git
